@@ -1,2 +1,1 @@
-# TinDog
-TinDog Remake with Bootstrap 
+TinDog Starting Files
